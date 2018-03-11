@@ -1,4 +1,4 @@
-# Assignment 2 (Mar 12, 2018)
+# Assignment 2 & 3 (Mar 12, 2018)
 
 + My work and analyses on 2017 OSYM data. [Click here](Assignment3.html).
 
