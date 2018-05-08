@@ -1,6 +1,6 @@
 # Assignment 5 (May 8, 2018)
 
-+ My work on Machine Learning assignments & answers  [Click here](Assignment_4.html)
++ My work on Machine Learning assignments & answers.  [Click here](Assignment_4.html)
 
 # Assignment 4 (Mar 20, 2018)
 
